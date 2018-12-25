@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./public/",
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es5",
+        "sourceMap": true,
+        "lib": ["es2015", "dom"],
+        "allowJs": true
+    }
+}
